@@ -30,13 +30,13 @@ Para el grupo “Wetlands Optimization” proporcionar soluciones innovadoras pa
 Idear y prototipar diseños que optimicen los procesos de mantenimiento de humedales para posteriormente probar nuestra idea en el campus de la Universidad Cayetano en el distrito Santa María, provincia de Lima, departamento Lima. 
 
 
-## Integrantes
+## ¿Quiénes somos?
 ---
--Lourdes Castillo Ore
--Luis Santiago Arenas Torres
--Sebastian Antonio Saldaña Rodriguez
--Arnold Uriel Casimiro Beteta
--Victor Nikolai Huarcaya Pumacayo
+- Lourdes Castillo Ore
+- Luis Santiago Arenas Torres
+- Sebastian Antonio Saldaña Rodriguez
+- Arnold Uriel Casimiro Beteta
+- Victor Nikolai Huarcaya Pumacayo
 
 
 
