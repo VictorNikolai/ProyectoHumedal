@@ -13,7 +13,7 @@ El grupo Wetlands Optimization les da la bienvenida a nuestro website, cuyo prop
 
 - [Misión](#Misión)
 - [Visión](#Visión)
-- [Que haremos](#Que haremos)
+- [Queharemos](#Queharemos)
 - [Integrantes](#Integrantes)
 
 ## Misión
