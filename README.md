@@ -11,3 +11,9 @@ El grupo Wetlands Optimization les da la bienvenida a nuestro website, cuyo prop
 ## Tabla de contenidos:
 ---
 
+- [Problemática](#problemática)
+- [Misión](#Misión)
+- [Visión](#Visión)
+- [Autores](#autores)
+
+
