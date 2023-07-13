@@ -33,12 +33,19 @@ Idear y prototipar diseños que optimicen los procesos de mantenimiento de humed
 ## ¿Quiénes somos?
 ---
 - Lourdes Castillo Ore
-![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Lourdes%20Castillo%20Ore.png))
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Lourdes%20Castillo%20Ore.png)
 
 - Luis Santiago Arenas Torres
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Luis%20Santiago%20Arenas%20Torres.png)
+  
 - Sebastian Antonio Saldaña Rodriguez
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Sebastian%20Antonio%20Salda%C3%B1a%20Rodriguez.png)
+  
 - Arnold Uriel Casimiro Beteta
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Arnold%20Uriel%20Casimiro%20Beteta.png)
+  
 - Victor Nikolai Huarcaya Pumacayo
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Victor%20Nikolai%20Huarcaya%20Pumacayo.png)
 
 
 
