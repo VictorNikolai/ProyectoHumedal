@@ -33,6 +33,8 @@ Idear y prototipar diseños que optimicen los procesos de mantenimiento de humed
 ## ¿Quiénes somos?
 ---
 - Lourdes Castillo Ore
+![](https://github.com/Nikolai0Huarcaya/ProyectoHumedal/blob/main/Qui%C3%A9nes%20somos/Lourdes%20Castillo%20Ore.png))
+
 - Luis Santiago Arenas Torres
 - Sebastian Antonio Saldaña Rodriguez
 - Arnold Uriel Casimiro Beteta
